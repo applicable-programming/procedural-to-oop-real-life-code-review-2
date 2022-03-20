@@ -1,4 +1,4 @@
-# Student code review, from procedural to OOP
+# Student code review 2 - from procedural to OOP
 
 Anonymous student Michael is struggling with maintaining this project due to its architecture. He also wants to start working as an expert in some company as he has five years of coding experience. 
 
